@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-VJSAR-kalyani-battu/VJSAR-kalyani-kattu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+VJSAR-kalyani-battu/VJSAR-kalyani-battu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
